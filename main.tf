@@ -4,7 +4,7 @@ module "ec2_instance" {
 
   name = "single-instance"
 
-  ami                    = "ami-ebd02392"
+  ami                    = "ami-032068be080ae7f37"
   instance_type          = "t2.micro"
   key_name               = "user1"
   monitoring             = true
