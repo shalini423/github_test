@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     azure = {
-      region = "eastus"  
+      version = "~> 3.0"
     }
   }
 }
