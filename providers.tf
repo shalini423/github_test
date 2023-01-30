@@ -1,6 +1,6 @@
 terraform {
   required_providers {
-    Azure = {
+    azure = {
       region = "eastus"  
     }
   }
