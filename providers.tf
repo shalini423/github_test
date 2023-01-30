@@ -3,4 +3,5 @@ terraform {
     Azure = {
       region = "eastus"  
     }
-  
+  }
+}
