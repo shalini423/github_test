@@ -14,5 +14,6 @@ terraform {
 }
 
 provider "azurerm" {
-  registry.terraform.io/hashicorp/azurerm
+  features {}
+  
 }
