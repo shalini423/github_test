@@ -14,5 +14,5 @@ terraform {
 }
 
 provider "azurerm" {
-  "registry.terraform.io/hashicorp/azurerm"
+  registry.terraform.io/hashicorp/azurerm
 }
